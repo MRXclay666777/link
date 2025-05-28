@@ -2,7 +2,7 @@ import React from 'react'
 
 const App = () => {
   return (
-    <div>LINK CHIQARISH</div>
+    <div>100 coin berin </div>
   )
 }
 
